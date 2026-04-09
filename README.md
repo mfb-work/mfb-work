@@ -1,9 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;Backend+Developer+%5B+PHP+(+Laravel+)+-+Node+-+Python+%5D;Frontend+Developer+%5BVue-React-Livewire%5D;DB+%5BMySql-NoSql%5D;AI+-+Automated)](https://git.io/typing-svg)
-
 # Hi there, I'm [Mohamed Fathy Emam] 👋
 ### Expert Software Engineer | +7 Years of Experience | Artichture Engineer
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;Backend+Developer+%5B+PHP+(+Laravel+)+-+Node+-+Python+%5D;Frontend+Developer+%5BVue-React-Livewire%5D;DB+%5BMySql-NoSql%5D;AI+-+Automated)](https://git.io/typing-svg)
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mfb-work&label=Profile%20Views&color=0099ff&style=flat-square" alt="Views" />
