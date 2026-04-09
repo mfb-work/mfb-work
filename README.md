@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mfb-work&label=Profile%20Views&color=#F7E827FF&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=mfb-work&label=Profile%20Views&color=#0099ff&style=flat-square" alt="Views" />
 </p>
 
 ---
