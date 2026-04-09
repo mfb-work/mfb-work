@@ -78,6 +78,6 @@
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/quote?type=dark&theme=tokyonight" width="100%" />
+<!-- <img src="https://quotes-github-readme.vercel.app/quote?type=dark&theme=tokyonight" width="100%" /> -->
 
 </div>
