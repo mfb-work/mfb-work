@@ -54,12 +54,7 @@
       <p>A comprehensive platform for fleet management and real-time transit tracking.</p>
       <code>Laravel</code> <code>Vue.js</code> <code>Docker</code> <code>Google Maps API</code>
     </td>
-    <td width="50%" valign="top">
-      <h4>💧 Water Donation for Mosques</h4>
-      <p>Automated charity platform managing water supply logistics for religious centers.</p>
-      <code>PHP</code> <code>Livewire</code> <code>MySQL</code> <code>Tailwind</code>
-    </td>
-  </tr>
+      </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>💄 Beauty Salon Ecosystem</h4>
