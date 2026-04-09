@@ -86,14 +86,12 @@
 ### 🚀 Top Projects
 
 #### 01. Smart Learning Management System (LMS)
-> نظام متطور يربط بين Laravel و Vue.js لتوفير تجربة تعليمية تفاعلية.
 - **Key Features:** Real-time notifications, Automated Grading, Video Streaming.
 - **Stack:** `Laravel` `Inertia.js` `Vue.js` `MySQL` `Docker`
 
 ---
 
 #### 02. Architecture Project Manager
-> أداة لإدارة المخططات الهندسية والمشاريع الإنشائية، تربط بين خبرتك في الهندسة المعمارية والبرمجة.
 - **Key Features:** Blueprints Viewer, Team Collaboration, Timeline Management.
 - **Stack:** `Python` `FastAPI` `React` `PostgreSQL`
 ---
