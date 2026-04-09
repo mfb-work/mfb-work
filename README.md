@@ -91,6 +91,8 @@
 - **Stack:** `Laravel` `Inertia.js` `Vue.js` `MySQL` `Docker`
 - 🔗 [View Project](https://github.com/mfb-work/LMS-repo) / [Live Demo](https://example.com)
 
+---
+
 #### 02. Architecture Project Manager
 > أداة لإدارة المخططات الهندسية والمشاريع الإنشائية، تربط بين خبرتك في الهندسة المعمارية والبرمجة.
 - **Key Features:** Blueprints Viewer, Team Collaboration, Timeline Management.
