@@ -65,13 +65,13 @@
       <p>IoT-integrated dashboard for real-time water consumption and leakage detection.</p>
       <code>Python</code> <code>FastAPI</code> <code>Node.js</code> <code>NoSQL</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>👨‍⚕️ Booking App</h4>
       <p>Full-stack solution for appointment scheduling records.</p>
       <code>Node</code> <code>Flutter</code> <code>Node.js</code> <code>Firebase</code> <code>CI/CD</code>
     </td>
+</tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🎓 Smart LMS (Current Focus)</h4>
       <p>Next-gen Learning Management System with AI-driven content assessment.</p>
