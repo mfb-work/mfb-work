@@ -54,8 +54,6 @@
       <p>A comprehensive platform for fleet management and real-time transit tracking.</p>
       <code>Laravel</code> <code>Vue.js</code> <code>Docker</code> <code>Google Maps API</code>
     </td>
-      </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>💄 Beauty Salon Ecosystem</h4>
       <p>Management system for salon bookings, inventory, and customer loyalty programs.</p>
