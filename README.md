@@ -6,7 +6,7 @@
 ### Expert Software Engineer | +7 Years of Experience | Content Creator
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0099ff&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=mfb-work&label=Profile%20Views&color=0099ff&style=flat-square" alt="Views" />
 </p>
 
 ---
@@ -48,14 +48,14 @@
 ### 📊 GitHub Analysis & Productivity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mfb-work&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfb-work&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfb-work&theme=react-dark&hide_border=true&area=true" width="95%" />
 </div>
 
 ---
