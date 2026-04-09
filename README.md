@@ -80,4 +80,17 @@
 
 <!-- <img src="https://quotes-github-readme.vercel.app/quote?type=dark&theme=tokyonight" width="100%" /> -->
 
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Smart LMS** | منصة إدارة تعلم ذكية متكاملة تدعم الفصول الافتراضية والاختبارات الآلية. | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![Inertia.js](https://img.shields.io/badge/-Inertia-9553E9?style=flat) | [Repo](#) |
+| **Cosmetics E-Commerce** | متجر إلكتروني متطور لمنتجات التجميل مع لوحة تحكم شاملة ونظام تتبع شحنات. | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | [Live](#) |
+| **AI Content Generator** | أداة مبنية بـ Python لتوليد سيناريوهات الفيديوهات التعليمية آلياً. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) | [Repo](#) |
+| **Architecture ERP** | نظام إداري مخصص لشركات الهندسة المعمارية لمتابعة المشاريع والمخططات. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | [Case Study](#) |
+
+---
+
 </div>
