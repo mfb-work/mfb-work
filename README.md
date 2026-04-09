@@ -54,6 +54,8 @@
       <p>A comprehensive platform for fleet management and real-time transit tracking.</p>
       <code>Laravel</code> <code>Vue.js</code> <code>Docker</code> <code>Google Maps API</code>
     </td>
+      </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>💄 Beauty Salon Ecosystem</h4>
       <p>Management system for salon bookings, inventory, and customer loyalty programs.</p>
@@ -68,8 +70,8 @@
   <tr>
     <td width="50%" valign="top">
       <h4>👨‍⚕️ Booking App</h4>
-      <p>Full-stack healthcare solution for appointment scheduling and patient records.</p>
-      <code>Flutter</code> <code>Node.js</code> <code>Firebase</code> <code>CI/CD</code>
+      <p>Full-stack solution for appointment scheduling records.</p>
+      <code>Node</code> <code>Flutter</code> <code>Node.js</code> <code>Firebase</code> <code>CI/CD</code>
     </td>
     <td width="50%" valign="top">
       <h4>🎓 Smart LMS (Current Focus)</h4>
