@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>👨‍⚕️ Doctors Booking App</h4>
+      <h4>👨‍⚕️ Booking App</h4>
       <p>Full-stack healthcare solution for appointment scheduling and patient records.</p>
       <code>Flutter</code> <code>Node.js</code> <code>Firebase</code> <code>CI/CD</code>
     </td>
