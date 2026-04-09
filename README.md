@@ -1,5 +1,8 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;Backend+Developer+%5BPHP-Node-Python%5D;Frontend+Developer+%5BVue-React-Livewire%5D)](https://git.io/typing-svg)
+
+
 <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Senior%20Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
 # Hi there, I'm [Mohamed Fathy Emam] 👋
