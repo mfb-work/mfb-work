@@ -86,14 +86,14 @@
 ### 🚀 Top Projects
 
 #### 01. Smart Learning Management System (LMS)
-**Key Features:** Real-time notifications, Automated Grading, Video Streaming.
-**Stack:** `Laravel` `Inertia.js` `Vue.js` `MySQL` `Docker`
+- **Key Features:** Real-time notifications, Automated Grading, Video Streaming.
+- **Stack:** `Laravel` `Inertia.js` `Vue.js` `MySQL` `Docker`
 
 ---
 
 #### 02. Architecture Project Manager
-**Key Features:** Blueprints Viewer, Team Collaboration, Timeline Management.
-**Stack:** `Python` `FastAPI` `React` `PostgreSQL`
+- **Key Features:** Blueprints Viewer, Team Collaboration, Timeline Management.
+- **Stack:** `Python` `FastAPI` `React` `PostgreSQL`
 ---
 
 
