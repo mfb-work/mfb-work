@@ -45,14 +45,15 @@
 
 ---
 
-### 🚀 Top Projects Portfolio
+### ⚡ Proficiency Levels
+![Laravel](https://geps.dev/progress/95?dangerColor=ff0000&warningColor=ff0000&successColor=ff2d20) 
+*Laravel Experience*
 
-| Project | Description | Tech Stack | Status / Link |
-| :--- | :--- | :--- | :--- |
-| **Smart LMS** | منصة إدارة تعلم ذكية متكاملة تدعم الفصول الافتراضية والاختبارات الآلية. | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat) ![Inertia](https://img.shields.io/badge/-Inertia-9553E9?style=flat) | 🏗️ [Building](https://github.com/mfb-work) |
-| **Arch Project Manager** | نظام إدارة متكامل مخصص للمشاريع الهندسية والمخططات المعمارية. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat) | 🔗 [Repo](#) |
-| **Cosmetics Platform** | متجر إلكتروني متقدم مع نظام تسويق ذكي مخصص لمجال التجميل. | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat) | 🚀 [Live](#) |
-| **Edu-Content AI** | أداة برمجية لتوليد وتنسيق المحتوى التعليمي لليوتيوب باستخدام الذكاء الاصطناعي. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![Node](https://img.shields.io/badge/-Node-339933?style=flat) | 📂 [Repo](#) |
+![Python](https://geps.dev/progress/85?successColor=3776ab)
+*Python & Automation*
+
+![Vue.js](https://geps.dev/progress/90?successColor=4fc08d)
+*Frontend Architecture*
 
 ---
 
