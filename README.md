@@ -64,7 +64,6 @@
 ---
 
 ### 🎓 Educational Content & Projects
-* 🎥 **YouTube:** Creating in-depth tutorials about Python, Web Development, and Chemistry.
 * 💻 **Current Focus:** Building a Smart LMS (Learning Management System) using Laravel & Vue.js.
 * 🚀 **Mentorship:** Helping junior developers scale their technical skills.
 
