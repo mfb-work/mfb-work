@@ -1,5 +1,3 @@
-عايز اضيف قسم لمشاريعي وكل مشروع استخدمت فيه تقنيات ايه 
-
 <div align="center">
 
 # Hi there, I'm [Mohamed Fathy Emam] 👋
