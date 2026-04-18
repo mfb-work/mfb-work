@@ -44,6 +44,14 @@
 </p>
 
 <p align="left">
+  <b>AI & Tools:</b><br/>
+  <img src="https://img.shields.io/badge/MCP-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="left">
   <b>Others:</b><br/>
   <img src="https://img.shields.io/badge/Mqtt-2496ED?style=for-the-badge&logo=mqtt&logoColor=white" />
   <img src="https://img.shields.io/badge/Websocket-009639?style=for-the-badge&logo=websocket&logoColor=white" />
