@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/Kafka-F05032?style=for-the-badge&logo=kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/EMQX-4479A1?style=for-the-badge&logo=emqx&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-4479A1?style=for-the-badge&logo=mcp&logoColor=white" />
+  <img src="https://img.shields.io/badge/IOT-4479A1?style=for-the-badge&logo=iot&logoColor=white" />
 </p>
 
 ---
